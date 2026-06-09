@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'contact_success'    => 'Thank you! Your message has been sent. We\'ll get back to you shortly.',
+    'property_not_found' => 'Property not found.',
+    'back_to_properties' => 'Back to Properties',
+    'contact_us'         => 'Contact Us',
+    'view_details'       => 'View Details',
+    'for_sale'           => 'For Sale',
+    'for_rent'           => 'For Rent',
+    'bedrooms'           => ':count Bedrooms',
+    'bathrooms'          => ':count Bathrooms',
+    'area'               => ':size m²',
+    'read_more'          => 'Read More',
+    'featured'           => 'Featured',
+    'all_properties'     => 'All Properties',
+    'filters'            => 'Filters',
+    'price_range'        => 'Price Range',
+    'send_message'       => 'Send Message',
+    'your_name'          => 'Your Name',
+    'your_email'         => 'Your Email',
+    'your_phone'         => 'Your Phone',
+    'your_message'       => 'Your Message',
+    'subscribe'          => 'Subscribe',
+    'newsletter'         => 'Newsletter',
+];

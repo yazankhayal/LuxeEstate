@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'contact_success'    => 'Teşekkürler! Mesajınız gönderildi. Kısa sürede size döneceğiz.',
+    'property_not_found' => 'Mülk bulunamadı.',
+    'back_to_properties' => 'Mülklere Dön',
+    'contact_us'         => 'İletişim',
+    'view_details'       => 'Detayları Gör',
+    'for_sale'           => 'Satılık',
+    'for_rent'           => 'Kiralık',
+    'bedrooms'           => ':count Yatak Odası',
+    'bathrooms'          => ':count Banyo',
+    'area'               => ':size m²',
+    'read_more'          => 'Devamını Oku',
+    'featured'           => 'Öne Çıkan',
+    'all_properties'     => 'Tüm Mülkler',
+    'filters'            => 'Filtrele',
+    'price_range'        => 'Fiyat Aralığı',
+    'send_message'       => 'Mesaj Gönder',
+    'your_name'          => 'Adınız',
+    'your_email'         => 'E-posta Adresiniz',
+    'your_phone'         => 'Telefon Numaranız',
+    'your_message'       => 'Mesajınız',
+    'subscribe'          => 'Abone Ol',
+    'newsletter'         => 'Bülten',
+];

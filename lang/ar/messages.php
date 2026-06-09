@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'contact_success'    => 'شكراً! تم إرسال رسالتك بنجاح. سنتواصل معك قريباً.',
+    'property_not_found' => 'العقار غير موجود.',
+    'back_to_properties' => 'العودة إلى العقارات',
+    'contact_us'         => 'تواصل معنا',
+    'view_details'       => 'عرض التفاصيل',
+    'for_sale'           => 'للبيع',
+    'for_rent'           => 'للإيجار',
+    'bedrooms'           => ':count غرف نوم',
+    'bathrooms'          => ':count حمامات',
+    'area'               => ':size م²',
+    'read_more'          => 'اقرأ المزيد',
+    'featured'           => 'مميز',
+    'all_properties'     => 'جميع العقارات',
+    'filters'            => 'تصفية',
+    'price_range'        => 'نطاق السعر',
+    'send_message'       => 'إرسال الرسالة',
+    'your_name'          => 'اسمك',
+    'your_email'         => 'بريدك الإلكتروني',
+    'your_phone'         => 'رقم هاتفك',
+    'your_message'       => 'رسالتك',
+    'subscribe'          => 'اشترك',
+    'newsletter'         => 'النشرة الإخبارية',
+];
